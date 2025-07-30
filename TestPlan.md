@@ -26,12 +26,12 @@ The goal is to simulate real-world QA tasks including test planning, execution, 
 | Test ID | Feature            | Test Scenario                                   | Expected Result                            | Status |
 |--------|--------------------|------------------------------------------------|--------------------------------------------|--------|
 | TC01   | Homepage            | Verify homepage loads with correct title/logo  | Homepage displays title/logo correctly     | ✅     |
-| TC02   | Signup/Login        | Test new user signup                           | User should be registered successfully     | ⬜     |
-| TC03   | Signup/Login        | Test login with correct credentials            | User logs in successfully                  | ⬜     |
-| TC04   | Cart Functionality  | Add item to cart                               | Item is added and reflected in cart        | ⬜     |
-| TC05   | Contact Us          | Submit form with valid data                    | Confirmation message is shown              | ⬜     |
-| TC06   | Search              | Search for “shirt”                             | Matching results should display            | ⬜     |
-| TC07   | Footer Navigation   | Click on “Subscription”                        | Page scrolls and validates email input     | ⬜     |
+| TC02   | Signup/Login        | Test new user signup                           | User should be registered successfully     | ✅     |
+| TC03   | Signup/Login        | Test login with correct credentials            | User logs in successfully                  | ✅     |
+| TC04   | Cart Functionality  | Add item to cart                               | Item is added and reflected in cart        | ✅     |
+| TC05   | Contact Us          | Submit form with valid data                    | Confirmation message is shown              | ✅     |
+| TC06   | Search              | Search for “shirt”                             | Matching results should display            | ✅     |
+| TC07   | Footer Navigation   | Click on “Subscription”                        | Page scrolls and validates email input     | ✅     |
 
 ✅ = Passed | ❌ = Failed | ⬜ = Not Tested
 
