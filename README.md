@@ -28,6 +28,17 @@ QA-Test-Plan-AutomationExercise/
 |--TestPlan.md #QA Test Plan documentation
 |--TestCases.xlsx # Test Cases Spreadsheet
 |--BugReport.md #Documented bugs found during testing
+|--/screenshots/
+|  |--homepage_test01.png
+|  |--newuser_test02.png
+|  |--login_test03.png
+|  |--cartfunction_test04.png
+|  |--contactus_test05.png
+|  |--shirtsearch_test06.png
+|  |--subscription_test07.png
+|  |--invalidlogin_test08.png
+|  |--viewproduct_test09.png
+
 
 ## ✅ QA Scope
 
@@ -53,6 +64,11 @@ This is a **manual QA testing project**. No test automation tools are required.
 2. Follow the test cases in `TestCases.xlsx`
 3. Log bugs in `BugReport.md`
 4. Review summary in `TestPlan.md`
+
+## 📸 Screenshots
+
+All relevant screenshots from manual testing are available in the `/screenshots` folder. These are linked within the Excel test case file for easy reference.
+
 
 ## 📌 Author
 
